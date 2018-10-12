@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Tushar Chutani",
+    "occupation":"Full stack developer",
+    "description":"I specialize in developing interactive mordern web apps in the latest and gratest web technologies such as Node.js, React and Angular",
+    "image":"profilepic.jpg",
+    "bio":"I am a passionate individual who is always on a look out for a new challanges and adventures. Would love to have a chat",
+    "contactmessage":"Do you have an intersting web project in mind? Lets have a chat",
+    "email": "tushar_chutani@yahoo.com",
+    "phone": "604-754-7690",
+    "address":{
+      "street":"595 Burrard Street",
+      "city":"Vancouver",
+      "state":"BC",
+      "zip": "V7X 1L7"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tusharchutani/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tusharchutani/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Bachelor of Science",
+        "graduated":"December 2017",
+        "description":"Graduated with a bachelor’s degree in Computer Science with an additional specialization in Commerce from one of the top programs in the country"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "projects":[
+      {
+        "projectName":"Meet up clone",
+        "link":"https://itunes.apple.com/US/app/id1332449364?mt=8",
+        "className":"fab fa-app-store",
+        "description":"Developed a cross platform (iOS and Android) clone for the popular social app Meet Up. Application is live on the App Store",
+        "skills":"React-native, HTML, SCSS, Javascript, Project planning, Heroku"
+      },
+      {
+        "projectName":"Emma Cloth Webparser",
+        "link":"https://github.com/tusharchutani/meetupclone",
+        "className":"fa fa-github",
+        "description":"Developed a script that scrapped all the products from the ecommerce platform. The scrapped data was stored in a MongoDB instance. The script was written in Node.js",
+        "skills":"Node.js, Azure VM, Mongo DB, Mongoose"
+      },
+      {
+        "projectName":"Web resume 1.0",
+        "link":"https://github.com/tusharchutani/meetupclone",
+        "className":"fa fa-github",
+        "description":"Developed a responsive web resume in React to show case my React skills",
+        "skills":"React, CSS, Responsive design"
+      },
+      {
+        "projectName":"React-redux quiz",
+        "link":"https://github.com/tusharchutani/reactquizapp",
+        "className":"fa fa-github",
+        "description":"Developed a quiz app that consumed a REST API to get a list of questions and answers. This project was made as an interview project and project is currently deployed on Heroku",
+        "skills":"React, Redux, Redux-thunk, CSS, Responsive design"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"85%"
+      },
+      {
+        "name":"Node.js",
+        "level":"85%"
+      },
+      {
+        "name":"React/React-native",
+        "level":"80%"
+      },
+      {
+        "name":"Angular 6",
+        "level":"75%"
+      },
+      {
+        "name":"CSS & CSS Frameworks",
+        "level":"90%"
+      },
+      {
+        "name":"C# (.Net)",
+        "level":"70%"
+      },
+      {
+        "name":"Relational DB",
+        "level":"80%"
+      },     
+      {
+        "name":"NoSQL",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
