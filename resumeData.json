@@ -51,16 +51,33 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
+        "company":"UBC farm",
+        "title":"Lead full stack developer",
         "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Working on an open source research project to manage daily farm activities. Involved in architecture, UI, testing and full stack development of the application.",
+        "infoPoints":["Involved in technical analysis, story break down and architecture design", "Developed and tested features for the application from scratch for both the front and backend of the application",
+        "Refactored the entire application for code reusability", "Skills used: NodeJS, React, MaterialUI, Javascript, object-oriented design, PostgrSQL"] 
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"MOK Technology",
+        "title":"Freelance full stack developer",
+        "years": "Jul. 2017 - Jan. 2018",
+        "description":"Worked as a mobile app developer for a startup based out of Vancouver. Involved in business development, UI development and full stack development of an event sharing mobile application for both iOS and Android.",
+        "infoPoints":["Involved in technical analysis, story break down, architecture and UI design","Involved in full stack development of the iOS and Android application with front end in Reactnative and backend in NodeJS and MongoDB.","Enforced best coding practices","Implemented and maintained RESTful API for the event sharing product in NodeJS.","Skills used: Reactnative, CSS, JavaScript, NodeJS, object-oriented design"]
+      },
+      {
+        "company":"Vision Critical, Vancouver HQ",
+        "title":"Software Engineer",
+        "years": "Apr. 2016 - Dec. 2017",
+        "description":"Worked as a software engineer intern at Vision Critical. Involved in analysis and implementation of features in rich .Net and HTML5 application with RESTful API.",
+        "infoPoints":["Delivered high quality production code.","Involved in technical analysis, estimation and development of features.","Developed front-end utilizing JQuery, company’s internal UI library and Angular2", "Implemented and maintained RESTful API for the survey product in C#.", "Developed and maintained JavaScript and C# unit tests.", "Skills used: HTML, CSS, JavaScript, AngularJS, C#, object-oriented design"]
+      },
+      {
+        "company":"ABB Enterprise Software, Vancouver HQ",
+        "title":"Software Engineer",
+        "years": "Apr. 2015 - Dec. 2015",
+        "description":"Instrumental in developing Service Suite mobile applications (for iOS and Android) using object-oriented design in many different technology stacks. Responsibilities included but were not limited to the following:",
+        "infoPoints":["Delivered quality production features developed using Cordova and Sencha touch Developed and maintained test automation Appium framework for iOS app","Set up of Linux development environments and servers","Skills used: HTML, CSS, Javascript, Java, object-oriented design, Sencha touch, Appium"]
       }
     ],
     "projects":[

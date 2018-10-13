@@ -275,7 +275,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
-   margin-bottom: 18px;
+   margin-bottom: 5px;
    margin-top: 9px;
 }
 #resume .info span {
@@ -891,7 +891,6 @@ call-to-action .button {
 	font-size: 13px;
 }
 #message-warning, #message-success {
-   display: none;
 	background: #0F0F0F;
 	padding: 24px 24px;
 	margin-bottom: 36px;
